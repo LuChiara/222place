@@ -2,7 +2,7 @@
 
 > *Reverse-engineering the magic of a dinner where strangers feel like old friends.*
 
-I've attended 5 dinners with [222.place](https://222.place). Every group felt genuinely diverse — different jobs, ages, cities — yet conversations clicked immediately. This repo is my attempt to understand why, by building the matching system myself.
+I've attended 5 dinners with [222.place](https://222.place). Every group felt genuinely diverse — different jobs, ages, hobbies — yet conversations clicked immediately. This repo is my attempt to understand why, by building the matching system myself.
 
 ---
 
