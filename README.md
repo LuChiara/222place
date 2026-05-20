@@ -1,4 +1,3 @@
-# 222place
 # 🍽️ 222.place — Group Matching Model
 
 > *Reverse-engineering the magic of a dinner where strangers feel like old friends.*
