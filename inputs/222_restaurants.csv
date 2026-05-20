@@ -1,0 +1,21 @@
+restaurant_id,name,cuisine,neighborhood,capacity,avg_price_per_person,available_days,private_dining,noise_level,rating
+R001,Osteria Romana,Italian,Downtown,48,25,Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday,No,Moderate,4.1
+R002,Sakura Garden,Japanese,Midtown,60,35,Monday|Wednesday|Thursday|Friday|Sunday,Yes,Moderate,4.3
+R003,El Rancho Verde,Mexican,Downtown,54,65,Monday|Thursday|Friday|Saturday,Yes,Quiet,4.3
+R004,The Copper Kettle,American,Riverside,48,55,Monday|Thursday|Friday|Sunday,No,Moderate,4.2
+R005,Spice Route,Indian,West Side,54,65,Wednesday|Thursday|Saturday|Sunday,Yes,Moderate,4.4
+R006,Bangkok Bliss,Thai,Riverside,42,25,Monday|Wednesday|Thursday|Friday|Saturday|Sunday,No,Lively,3.6
+R007,Aegean Coast,Mediterranean,South Park,60,45,Tuesday|Wednesday|Thursday|Friday|Saturday,No,Moderate,4.6
+R008,La Cucina Moderna,Italian,Midtown,72,65,Monday|Tuesday|Thursday|Saturday,No,Quiet,4.6
+R009,Noodle & Sake,Japanese,East Village,48,35,Monday|Tuesday|Thursday|Friday|Saturday,No,Moderate,4.6
+R010,Casa Azul,Mexican,Downtown,60,65,Monday|Wednesday|Thursday|Friday|Sunday,Yes,Quiet,4.7
+R011,Harvest & Hearth,American,Downtown,60,35,Monday|Tuesday|Wednesday|Friday|Saturday,Yes,Moderate,4.2
+R012,Bombay Kitchen,Indian,Downtown,48,55,Tuesday|Thursday|Friday|Saturday|Sunday,No,Lively,4.1
+R013,Lotus Garden,Thai,West Side,42,45,Monday|Tuesday|Thursday|Friday|Sunday,No,Moderate,4.1
+R014,Riviera Grill,Mediterranean,South Park,42,25,Tuesday|Thursday|Friday|Saturday,No,Moderate,4.0
+R015,Taco Libre,Mexican,South Park,48,35,Monday|Wednesday|Thursday|Friday|Saturday|Sunday,No,Quiet,4.3
+R016,The Glass House,American,Downtown,48,55,Monday|Wednesday|Thursday|Friday|Saturday|Sunday,Yes,Moderate,4.5
+R017,Umami Bar,Japanese,North End,72,55,Wednesday|Thursday|Friday|Saturday|Sunday,Yes,Lively,3.9
+R018,Saffron Palace,Indian,Riverside,54,35,Monday|Tuesday|Wednesday|Thursday|Friday|Sunday,Yes,Quiet,3.9
+R019,Verde Olivo,Mediterranean,Riverside,48,55,Monday|Tuesday|Wednesday|Thursday|Saturday,No,Moderate,3.5
+R020,Pacific Rim,Thai,Riverside,36,25,Monday|Tuesday|Thursday|Friday|Saturday|Sunday,No,Lively,3.9
